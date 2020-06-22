@@ -1,4 +1,4 @@
-###Mi blog personal
+### Mi blog personal
 Un blog que relata mi historia.
 > Sobre qué va este blog?
 >- Cosas divertidas
